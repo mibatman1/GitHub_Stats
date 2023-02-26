@@ -5,6 +5,13 @@
 /.pnp
 .pnp.js
 
+/src/Data
+/src/App1.js
+/src/Colorize.js
+/src/Greet.js
+/src/Movie.js
+/src/MovieCom.js
+
 # testing
 /coverage
 
